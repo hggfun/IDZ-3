@@ -12,7 +12,7 @@
 
 Теоретическая часть решения:
 
-Имея ряд Эйлера, можем вывести формулу, для подсчета числа <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sum_{i=0}^{\infty}\frac{1}{i!}" title="\Large \sum_{i=0}^{\infty}\frac{1}{i!}" />
+Имея ряд Эйлера, можем вывести формулу, для подсчета числа <img src="https://latex.codecogs.com/svg.latex?\Large&space;e = \sum_{i=0}^{\infty}\frac{1}{i!}" title="\Large \sum_{i=0}^{\infty}\frac{1}{i!}" />
 
 При подсчете с определенной точностью бесконечность можно заменить на некоторое натуральное n. Дальнейшее решение будет опираться на эту формулу.
 
